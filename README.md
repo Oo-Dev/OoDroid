@@ -1,4 +1,6 @@
-# Spydroid-ipcamera
+# OoDroid
+
+* OoDroid is forked from Spydroid,and adds multi-user supporting.The following info is from Spydroid.
 
 * Spydroid is a little app. that *streams the camera and microphone of your phone to your browser or to VLC !*
 
